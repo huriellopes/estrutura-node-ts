@@ -22,5 +22,8 @@
       "@controllers/*": ["./src/app/controller/*"],
       "@models/*": ["./src/app/models/*"]
     }
-  }
+  },
+  "include": [
+    "src/**/*"
+  ]
 }
