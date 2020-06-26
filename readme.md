@@ -1,14 +1,16 @@
 # Estrutura de desenvolvimento de app em node com typescript
 
-> Estrutura feita com o intuito de ser utilizada como template para novos projetos e migração de projetos existentes!
+> Estrutura feita com o intuito de ser utilizada como template para novos projetos e migração de projetos existentes, com uma base bem básica, pronta para receber configurações adicionais!
 
 ## ⚡ O que foi utilizado?
 
 - Node.js
+- Express
 - Typescript
 - Babel
 - Jest
 - Eslint
+- Prettier
 - Dotenv
 - Morgan
 - Cors
@@ -34,7 +36,7 @@ copy .env.example .env
 ### Depois execute:
 
 ````
-yarn dev
+yarn dev:server
 ````
 
 ## 📝 Licença
