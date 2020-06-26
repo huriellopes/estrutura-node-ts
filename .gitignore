@@ -1,6 +1,12 @@
 .vscode
 
 node_modules/
+.env
+
 dist/
 
-.env
+!src/app/controllers/.gitkeep
+!src/app/middlewares/.gitkeep
+!src/app/models/.gitkeep
+!src/app/validators/.gitkeep
+!src/tests/.gitkeep
