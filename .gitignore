@@ -9,4 +9,4 @@ dist/
 !src/app/middlewares/.gitkeep
 !src/app/models/.gitkeep
 !src/app/validators/.gitkeep
-!src/tests/.gitkeep
+!src/__tests__/.gitkeep

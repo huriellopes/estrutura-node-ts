@@ -41,4 +41,4 @@ yarn dev:server
 
 ## 📝 Licença
 
-Este repositório está sobre a licença MIT.
+Este repositório está sobre a licença MIT. veja aqui [LICENSE](LICENSE)
